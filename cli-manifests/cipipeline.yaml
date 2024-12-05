@@ -1,6 +1,6 @@
 pipeline:
-  name: cicd-gitops-pipeline3
-  identifier: cicdgitopspipeline3
+  name: cicd-gitops-pipeline-sample
+  identifier: cicdgitopspipeline-sample
   projectIdentifier: default_project
   orgIdentifier: default
   tags: {}
